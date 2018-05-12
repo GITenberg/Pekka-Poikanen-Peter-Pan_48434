@@ -1,9 +1,13 @@
 _repo: Pekka-Poikanen-Peter-Pan_48434
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Haapanen-Tallgren, Tyyni
     gutenberg_agent_id: '44797'
     url: http://www.gutenberg.org/2009/agents/44797
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Barrie, J. M. (James Matthew)
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/10
     wikipedia: http://en.wikipedia.org/wiki/J._M._Barrie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48434#Pekka-Poikanen-Peter-Pan
 gutenberg_issued: '2015-03-08'
 gutenberg_type: Text
 identifiers:
